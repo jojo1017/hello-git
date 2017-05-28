@@ -2,3 +2,6 @@ Hello Kuma!
 This is Edited by web hello-git!
 Hello this is local ameato.
 This is edited by local.
+
+
+edit by web!!!
