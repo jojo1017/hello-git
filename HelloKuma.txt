@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 Hello Kuma!
 This is Edited by web hello-git!
 Hello this is local ameato.
@@ -22,4 +20,6 @@ edit by local!
 
 Webで編集してみました
 コンフリクト起きている？
->>>>>>> e8e91c3267deda04146acc2d049930b8779eb5fe
+
+
+終わりたい
